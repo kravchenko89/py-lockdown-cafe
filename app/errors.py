@@ -1,5 +1,4 @@
 class VaccineError(Exception):
-    """Parent class for all vaccine related errors."""
     pass
 
 
